@@ -16,3 +16,19 @@ Prima la logica in italiano e poi traduciamo in codice.
 
 javascript
 
+// definisco una variabile per un array di oggetti per rappresentare i membri del team
+
+//  definisco tre variabbili per selezzionare il main e aggiungere div
+
+// aggiungo il div al html
+
+// aggiungo claslist a div 
+
+// aggiungo un ciclo per ripetere le schede dove c'è i membri del team
+
+    //stampo immagini
+
+    //stampo il nome
+    
+    //stampo il ruolo
+
